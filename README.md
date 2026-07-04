@@ -5,7 +5,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,7 +46,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ---
 
-### 🚀 Featured Projects
+### Current Projects
 
 * 🛡️ **ADA Compliance Scanner** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
   → 🔗 [Live Demo](https://ada-scanner.duckdns.org/)
@@ -63,16 +63,16 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ---
 
-### 💼 What I'm Doing
+### What I'm Doing
 
-* 🎯 Freelancing as a **Front-End Developer**, building interactive UIs & landing pages with React.js, Tailwind CSS, GSAP & Three.js
-* 🎓 BS Software Engineering graduate from COMSATS University Islamabad, Attock Campus
-* 🌱 Currently exploring advanced **motion design** and **3D web experiences** (WebGL/Three.js)
-* 💬 Open to entry-level **Front-End Developer** opportunities
+* Freelancing as a **Front-End Developer**, building interactive UIs & landing pages with React.js, Tailwind CSS, GSAP & Three.js
+* BS Software Engineering graduate from COMSATS University Islamabad, Attock Campus
+* Currently exploring advanced **motion design** and **3D web experiences** (WebGL/Three.js)
+* Open to entry-level **Front-End Developer** opportunities
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 [![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true&v=1)](https://github.com/adeeelfarooq)
 
@@ -82,7 +82,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ---
 
-### 🔗 Connect with Me
+### Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeeelfarooq)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelkhattak88088@gmail.com)
