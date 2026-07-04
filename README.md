@@ -48,18 +48,11 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ### 🚀 Featured Projects
 
-* 🛡️ **ADA Compliance Scanner** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
-  → 🔗 [Live Demo](https://ada-scanner.duckdns.org/)
-
-* 🚗 **[Toyota Interactive Showcase](https://github.com/adeeelfarooq/TOYOTA)** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js + GSAP
-  → 🔗 [Live Demo](https://toyota-rosy-one.vercel.app/)
-
-* ✨ **[SPYLT Landing Page Clone](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
-  → 🔗 [Live Demo](https://spylt-red.vercel.app/)
-
-* 🍔 **[Food Delight](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
-
-* ✈️ **PIA Airline Booking System** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
+* 🛡️ **[ADA Compliance Scanner](https://ada-scanner.duckdns.org/)** — full-stack web accessibility platform with WCAG/ADA audits, Stripe billing & automated CI/CD
+* 🚗 **[Toyota Interactive Showcase](https://toyota-rosy-one.vercel.app/)** — cinematic car landing page with GSAP scroll animation & a live Three.js 3D model
+* ✨ **[SPYLT Landing Page](https://spylt-red.vercel.app/)** — pixel-perfect animated clone built with GSAP scroll interactions
+* 🍔 **[Food Delight](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — cross-platform food ordering app built with React Native + Firebase
+* ✈️ **PIA Airline Booking System** — flight booking platform with an admin panel & a PHP/MySQL backend
 
 ---
 
@@ -75,10 +68,6 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ### 📊 GitHub Activity
 
 [![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true)](https://github.com/adeeelfarooq)
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeelfarooq&theme=radical&hide_border=true" height="165" alt="streak stats" />
-</p>
 
 ---
 
