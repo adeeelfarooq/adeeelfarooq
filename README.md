@@ -74,9 +74,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeeelfarooq&theme=react-dark&hide_border=true" width="100%" alt="activity graph" />
-</p>
+[![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true)](https://github.com/adeeelfarooq)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeelfarooq&theme=radical&hide_border=true" height="165" alt="streak stats" />
