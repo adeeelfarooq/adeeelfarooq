@@ -75,12 +75,12 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeeelfarooq&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeeelfarooq&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeelfarooq&theme=radical&hide_border=true" height="165" alt="streak stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeelfarooq&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeelfarooq&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="top languages" />
 </p>
 
 ---
