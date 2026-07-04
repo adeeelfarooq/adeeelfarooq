@@ -77,7 +77,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 [![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true&v=1)](https://github.com/adeeelfarooq)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeelfarooq&theme=radical&hide_border=true&cache_seconds=21600&v=1" height="165" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=adeeelfarooq&theme=radical&hide_border=true" height="165" alt="streak stats" />
 </p>
 
 ---
@@ -87,5 +87,3 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeeelfarooq)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelkhattak88088@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeeelfarooq)
-
-
