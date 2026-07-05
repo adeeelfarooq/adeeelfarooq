@@ -1,4 +1,4 @@
-# Hi, I'm Adeel 👋 #
+# Hi, I'm Adeel 👋 
 📍 Pakistan | 💻 Web/App Developer | 🚀 Bringing Interfaces to Life with Motion & Performance
 
 Specializing in interactive UI, motion design, and pixel-perfect frontend engineering.
@@ -44,7 +44,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+#
 
 ### Current Projects
 
@@ -61,7 +61,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 * ✈️ **PIA Airline Booking System** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
 
----
+#
 
 ### What I'm Doing
 
@@ -70,7 +70,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 * Currently exploring advanced **motion design** and **3D web experiences** (WebGL/Three.js)
 * Open to entry-level **Front-End Developer** opportunities
 
----
+#
 
 ### GitHub Activity
 
@@ -80,7 +80,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
   <img src="https://streak-stats.demolab.com/?user=adeeelfarooq&theme=radical&hide_border=true&r=2" height="165" alt="streak stats" />
 </p>
 
----
+#
 
 ### Connect 
 
