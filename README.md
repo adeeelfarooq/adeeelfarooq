@@ -65,10 +65,10 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ### What I'm Doing
 
-* Freelancing as a **Front-End Developer**, building interactive UIs & landing pages with React.js, Tailwind CSS, GSAP & Three.js
+* Freelancing as a Front-End Developer, building interactive UIs & landing pages with React.js, Tailwind CSS, GSAP & Three.js
 * BS Software Engineering graduate from COMSATS University Islamabad, Attock Campus
-* Currently exploring advanced **motion design** and **3D web experiences** (WebGL/Three.js)
-* Open to entry-level **Front-End Developer** opportunities
+* Currently exploring advanced motion design and 3D web experiences (WebGL/Three.js)
+* Open to entry-level Front-End Developer opportunities
 
 #
 
