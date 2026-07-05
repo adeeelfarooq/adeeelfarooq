@@ -44,6 +44,10 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,postgres,firebase,docker,azure,git,github,figma,nginx,java,cs,cpp)](https://skillicons.dev)
+
 ---
 
 ### Current Projects
