@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40)
-
 # Hi, I'm Adeel 👋 #
 📍 Pakistan | 💻 Web/App Developer | 🚀 Bringing Interfaces to Life with Motion & Performance
 
@@ -46,10 +44,6 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,postgres,firebase,docker,azure,git,github,figma,nginx,java,cs,cpp)](https://skillicons.dev)
-
 ---
 
 ### Current Projects
@@ -81,8 +75,6 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 ### GitHub Activity
 
 [![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true&v=2)](https://github.com/adeeelfarooq)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adeeelfarooq&theme=radical&no-frame=true&row=1&column=6)](https://github.com/adeeelfarooq)
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=adeeelfarooq&theme=radical&hide_border=true&r=2" height="165" alt="streak stats" />
