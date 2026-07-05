@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40)
+
 # Hi, I'm Adeel 👋 #
 📍 Pakistan | 💻 Web/App Developer | 🚀 Bringing Interfaces to Life with Motion & Performance
 
