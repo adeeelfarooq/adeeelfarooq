@@ -82,6 +82,8 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 [![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=adeeelfarooq&hide_border=true&v=2)](https://github.com/adeeelfarooq)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adeeelfarooq&theme=radical&no-frame=true&row=1&column=6)](https://github.com/adeeelfarooq)
+
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=adeeelfarooq&theme=radical&hide_border=true&r=2" height="165" alt="streak stats" />
 </p>
