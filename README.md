@@ -1,4 +1,4 @@
-# Hi, I'm Adeeeel 👋 
+# Hi, I'm Adeel 👋 
 📍 Pakistan | 💻 Web/App Developer | 🚀 Bringing Interfaces to Life with Motion & Performance
 
 Specializing in interactive UI, motion design, and pixel-perfect frontend engineering.
