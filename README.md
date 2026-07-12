@@ -48,18 +48,18 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 ### Current Projects
 
-* 🛡️ **ADA Compliance Scanner** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
+* 🛡️ **ADA COMPLIANCE SCANNER** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
   → 🔗 [Live Demo](https://ada-scanner.duckdns.org/)
 
-* 🚗 **[Toyota Interactive Showcase](https://github.com/adeeelfarooq/TOYOTA)** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js + GSAP
+* 🚗 **[TOYOTA](https://github.com/adeeelfarooq/TOYOTA)** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js + GSAP
   → 🔗 [Live Demo](https://toyota-rosy-one.vercel.app/)
 
-* ✨ **[SPYLT Landing Page Clone](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
+* ✨ **[SPYLT](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
   → 🔗 [Live Demo](https://spylt-red.vercel.app/)
 
-* 🍔 **[Food Delight](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
+* 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
 
-* ✈️ **PIA Airline Booking System** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
+* ✈️ **PIA AIRLINE SYSTEM** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
 
 #
 
