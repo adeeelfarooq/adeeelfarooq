@@ -59,7 +59,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 
 * 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
 
-* ✈️ ******PIA****** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
+* ✈️ **PIA** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
 
 #
 
