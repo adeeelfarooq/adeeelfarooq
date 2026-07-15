@@ -51,7 +51,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 * 🛡️ **ADA COMPLIANCE SCANNER** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
   → 🔗 [Live Demo](https://ada-scanner.duckdns.org/)
 
-* 🚗 **[TOYOTA]** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js + GSAP
+* 🚗 **TOYOTA** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js + GSAP
   → 🔗 [Live Demo](https://toyota-rosy-one.vercel.app/)
 
 * ✨ **[SPYLT](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
