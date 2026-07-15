@@ -57,7 +57,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 * ✨ **[SPYLT](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
   → 🔗 [Live Demo](https://spylt-red.vercel.app/)
 
-* 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
+* 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering application with a Next.js web app & React Native (Expo) mobile app, sharing a Firebase backend for authentication, cart, orders, profiles & responsive UI
 → 🔗 [Live Demo](https://food-delight-liard.vercel.app/)
 
 * ✈️ **PIA** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
