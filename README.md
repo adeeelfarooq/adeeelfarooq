@@ -58,6 +58,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
   → 🔗 [Live Demo](https://spylt-red.vercel.app/)
 
 * 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering app (React Native + Firebase) with auth, cart & order tracking
+→ 🔗 [Live Demo](https://food-delight-liard.vercel.app/)
 
 * ✈️ **PIA** — Full flight booking platform with admin panel & real-time PHP/MySQL backend
 
