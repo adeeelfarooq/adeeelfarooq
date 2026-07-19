@@ -54,7 +54,7 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 * 🚗 **TOYOTA** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js & WebGL + GSAP
   → 🔗 [Live Demo](https://toyota-rosy-one.vercel.app/)
 
-* ✨ **[SPYLT](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
+* 🥤 **[SPYLT](https://github.com/adeeelfarooq/SPYLT)** — Pixel-perfect, animation-rich recreation with advanced GSAP scroll interactions
   → 🔗 [Live Demo](https://spylt-red.vercel.app/)
 
 * 🍔 **[FOOD DELIGHT](https://github.com/adeeelfarooq/FOOD-DELIGHT)** — Cross-platform food ordering application with a Next.js web app & React Native (Expo) mobile app, sharing a Firebase backend for authentication, cart, orders, profiles & responsive UI
