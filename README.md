@@ -51,6 +51,9 @@ Specializing in interactive UI, motion design, and pixel-perfect frontend engine
 * 🛡️ **ADA COMPLIANCE SCANNER** — Full-stack web accessibility platform with dual scanning engines, WCAG/ADA audit reports, Stripe subscriptions & automated CI/CD deployment
   → 🔗 [Live Demo](https://ada-scanner.duckdns.org/)
 
+* 📅 **[BELLWEAVE](https://github.com/adeeelfarooq/BELLWEAVE)** — A scroll-driven SaaS website redesign built with React, Tailwind CSS & GSAP, featuring pinned scroll sequences and a deep four-stage product walkthrough
+  → 🔗 [Live Demo](https://bellweave.vercel.app/)
+
 * 🚗 **TOYOTA** — Cinematic car landing page with scroll-triggered animations & a fully rendered 3D model using Three.js & WebGL + GSAP
   → 🔗 [Live Demo](https://toyota-rosy-one.vercel.app/)
 
